@@ -6,7 +6,10 @@ namespace programming
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! new ");
+            Console.WriteLine("Hello World! ");
+                        Console.WriteLine("Hello World! ");
+
+
         }
     }
 }
