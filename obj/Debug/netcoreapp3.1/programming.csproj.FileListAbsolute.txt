@@ -1,0 +1,12 @@
+/Users/rolo/Documents/programming/bin/Debug/netcoreapp3.1/programming.deps.json
+/Users/rolo/Documents/programming/bin/Debug/netcoreapp3.1/programming.runtimeconfig.json
+/Users/rolo/Documents/programming/bin/Debug/netcoreapp3.1/programming.runtimeconfig.dev.json
+/Users/rolo/Documents/programming/bin/Debug/netcoreapp3.1/programming.dll
+/Users/rolo/Documents/programming/bin/Debug/netcoreapp3.1/programming.pdb
+/Users/rolo/Documents/programming/obj/Debug/netcoreapp3.1/programming.csprojAssemblyReference.cache
+/Users/rolo/Documents/programming/obj/Debug/netcoreapp3.1/programming.AssemblyInfoInputs.cache
+/Users/rolo/Documents/programming/obj/Debug/netcoreapp3.1/programming.AssemblyInfo.cs
+/Users/rolo/Documents/programming/obj/Debug/netcoreapp3.1/programming.csproj.CoreCompileInputs.cache
+/Users/rolo/Documents/programming/obj/Debug/netcoreapp3.1/programming.dll
+/Users/rolo/Documents/programming/obj/Debug/netcoreapp3.1/programming.pdb
+/Users/rolo/Documents/programming/obj/Debug/netcoreapp3.1/programming.genruntimeconfig.cache
